@@ -30,8 +30,9 @@ To analyze hospital patient and revenue data and provide actionable insights int
 - Designed an interactive dashboard to support healthcare operational and financial analysis.
 
 # Dashboard
-<img width="1305" height="732" alt="hddb1" src="https://github.com/user-attachments/assets/3bd06649-5559-4c6c-9898-8a5386152d75" />
-<img width="1318" height="741" alt="hddb2" src="https://github.com/user-attachments/assets/f7782b4d-e3ce-45b1-8ffd-c17573f3438b" />
+<img width="1305" height="732" alt="hddb1" src="https://github.com/user-attachments/assets/c1127387-ecba-4532-a7f4-36ef88937f51" />
+<img width="1318" height="741" alt="hddb2" src="https://github.com/user-attachments/assets/c2f7aadd-01a8-4d08-93ea-d102bf34eb79" />
+
 
 # Project Insights
 - A total of 100 patients were analyzed.
